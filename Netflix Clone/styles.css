@@ -116,3 +116,44 @@ body {
 .mt-btn {
   margin-top: 4px;
 }
+
+/* Designing section 2*/
+.container {
+  width: 990px;
+  color: white;
+  display: flex;
+  gap: 80px;
+  margin: 100px auto;
+  align-items: center;
+}
+.left {
+  width: 50%;
+}
+.right {
+  width: 50%;
+}
+.tv {
+  width: 100%;
+}
+.video {
+  margin-left: 65px;
+  margin-top: 25px;
+  width: 70%;
+  height: 80%;
+  object-fit: contain;
+  position: absolute;
+}
+.real-tv {
+  width: 495px;
+  display: block;
+  position: relative;
+}
+.heading {
+  font-size: 48px;
+}
+.sub-heading {
+  font-size: 24px;
+}
+section {
+  border-bottom: 8px solid #eeeeee34;
+}

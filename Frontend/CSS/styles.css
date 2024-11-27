@@ -23,3 +23,17 @@ body {
   border-radius: 10px;
   border: 1px solid lightgray;
 }
+.othercards {
+  text-align: center;
+  width: 300px;
+  margin: 30px auto;
+  height: 300px;
+}
+.mainpage-link {
+  width: 90%;
+  border: 1px solid gray;
+  padding: 20px;
+  background-color: lightgray;
+  margin: 15px;
+  border-radius: 10px;
+}
